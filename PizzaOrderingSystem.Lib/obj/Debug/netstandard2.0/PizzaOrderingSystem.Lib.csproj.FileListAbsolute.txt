@@ -1,0 +1,9 @@
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\bin\Debug\netstandard2.0\PizzaOrderingSystem.Lib.deps.json
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\bin\Debug\netstandard2.0\PizzaOrderingSystem.Lib.dll
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\bin\Debug\netstandard2.0\PizzaOrderingSystem.Lib.pdb
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.csprojAssemblyReference.cache
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.AssemblyInfoInputs.cache
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.AssemblyInfo.cs
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.csproj.CoreCompileInputs.cache
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.dll
+C:\Users\s0044934\source\repos\PizzaOrderingSystem\PizzaOrderingSystem.Lib\obj\Debug\netstandard2.0\PizzaOrderingSystem.Lib.pdb
